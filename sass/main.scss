@@ -1,0 +1,53 @@
+@import "base";
+@import "component";
+
+
+@import "layout";
+
+
+
+// html{
+//     padding:10px;
+//     font-size:20px;
+    
+//   }
+//   .challange{
+//     margin:10px auto;
+   
+//     width:50%;
+//     color:black;
+//     display:grid;
+//     grid-template-rows:repeat(9,40px);
+//     grid-template-columns:repeat(3,2fr) 1fr;
+    
+    
+    
+    
+//     grid-gap:10px;
+   
+    
+//   }
+//   .same{
+//     background-color:red;
+//     padding:10px;
+//   }
+//   .header{
+//      grid-column:1/5;
+    
+//   }
+//   .small-box-1{
+//      grid-row:2/4;
+    
+//   }
+//   .sidebar{
+//     grid-row:2/7;
+//   }
+//   .main-content{
+//     grid-column:1/4;
+//     grid-row:4/7;
+    
+//   }
+//   .footer{
+//     grid-column:1/-1;
+//   }
+
