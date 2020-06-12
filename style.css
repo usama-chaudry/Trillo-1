@@ -34,7 +34,7 @@ html {
 
 body {
   font-weight: 400;
-         font-family: "Open Sans" , sans-serif;
+  font-family: "Open Sans" , sans-serif;
   background-image: linear-gradient(to right bottom, var(--color-primary-light), var(--color-primary-dark));
   min-height: 100vh;
   background-repeat: no-repeat; }
@@ -303,8 +303,8 @@ body {
       width: 1rem;
       margin-right: .7rem;
       background-color: var(--color-primary);
-      -webkit-mask: url(/images/chevron-thin-right.svg);
-      mask: url(/images/chevron-thin-right.svg);
+      -webkit-mask: url(../images/chevron-thin-right.svg);
+      mask: url(../images/chevron-thin-right.svg);
       -webkit-mask-size: cover;
       mask-size: cover; }
 
